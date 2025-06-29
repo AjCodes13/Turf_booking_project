@@ -23,7 +23,6 @@ build/
 *.autosave
 
 # Database dump or secrets
-*.sql
 *.db
 *.bak
 *.swp
